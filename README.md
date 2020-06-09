@@ -1,0 +1,2 @@
+# discordpy
+Basic API Detection
